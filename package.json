@@ -1,5 +1,5 @@
 {
-  "name": "Cyclic Redundancy Check",
-  "description": "Cyclically perform redundancy checks to make sure that your system is as redundant as needed.",
-  "version": "1.4.1"
+  "name": "Elecrtonic Document Archiving",
+  "description": "Automatically make online copies of your electronic documents.",
+  "version": "2.4.1"
 }
