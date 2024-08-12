@@ -1,0 +1,5 @@
+{
+  "name": "Cyclic Redundancy Check",
+  "description": "Cyclically perform redundancy checks to make sure that your system is as redundant as needed.",
+  "version": "1.4.1"
+}
